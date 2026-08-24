@@ -1,2 +1,5 @@
 # connect.facebook.net
 api-js.datadome.co
+analytics.google.com
+google-analytics.com
+googletagmanager.com
